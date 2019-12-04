@@ -2,4 +2,6 @@ My some text in first row for victor`s repository.
 Name repository: linux_gb
 Text redactor: vi
 
+Some text for branch "nikita_feature"
+
 Author: Nikita Bessonov 
